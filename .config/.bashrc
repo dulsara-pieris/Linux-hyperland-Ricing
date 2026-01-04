@@ -1,0 +1,2 @@
+fastfetch
+. "$HOME/.cargo/env"
