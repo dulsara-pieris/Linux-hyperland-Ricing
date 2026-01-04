@@ -1,1 +1,1 @@
-# Linux-hyperland-Ricing f
+# Linux-hyperland-Ricing
